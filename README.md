@@ -150,3 +150,8 @@ Author
 Credit Card Fraud Detection Project
 
 Built using Python, Machine Learning, and Streamlit.
+
+<img width="871" height="689" alt="image" src="https://github.com/user-attachments/assets/8ac111b0-04d5-426a-bf88-d8080aee046d" />
+<img width="1600" height="728" alt="image" src="https://github.com/user-attachments/assets/8416bd4e-4238-4c58-94ea-af95f29f359f" />
+
+
